@@ -68,6 +68,10 @@ flutter:
     - images/asset1/getstarted.png
     - images/asset1/shape.png
     - images/asset1/signin.png
+    - images/igracias/logo_igracias.png
+    - images/igracias/buku.png
+    - images/igracias/bangunan.png
+    - images/igracias/jam.png
   #   - images/a_dot_ham.jpeg
 
   # An image asset can refer to one or more resolution-specific "variants", see

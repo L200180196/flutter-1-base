@@ -19,13 +19,16 @@ import 'lat15_TabBarWidget.dart';
 import 'lat16_TextFieldFitur.dart';
 import 'lat18_TextFieldControl.dart';
 import 'lat21_DismissibleWidget.dart';
+import 'Igracias/Login_I.dart';
 
 void main(){
+  Color btnColor = const Color.fromRGBO(145, 9, 9, 3);
   runApp(
     MaterialApp(
       debugShowCheckedModeBanner: false,
-      theme: ThemeData(fontFamily: "Poppins"),
-      home: GetStarted(),
+      theme: ThemeData(
+        fontFamily: "Poppins",),
+      home: Login(),
       // initialRoute: Hal1.nameRoute,
       // routes: {
       //   Hal1.nameRoute: (context) => Hal1(),

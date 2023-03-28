@@ -34,7 +34,7 @@ class Lat19 extends StatelessWidget {
         //   children: myList,
         // ),
         body: GridView.count(
-          crossAxisCount: 6,
+          crossAxisCount: 3,
           childAspectRatio: 1,
           crossAxisSpacing: 10,
           mainAxisSpacing: 10,
